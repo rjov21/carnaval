@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://carnavaldebarranquilla.org/wp-content/uploads/2021/02/FONDO-carnaval-cumbia-verde.jpg);
+}
+.navbar{
+    background-color: white;
+}
+img, svg{
+    height: 100%;
+}
+  .carousel-item{
+    height: 400px;
+  }
+  h5, p{
+    color: white;
+  }
+
+  @media (min-width: 641px){
+    .mobile-menu{
+      display: none;
+    }
+  }
